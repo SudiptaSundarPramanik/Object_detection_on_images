@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+a{
+    border-radius: 30px !important;
+    background-color: white;
+    color: black;
+    width: 30%;
+}

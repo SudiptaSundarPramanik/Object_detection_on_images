@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.button{
+    float: right;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    border-radius: 30px !important;
+    margin-top: 10px;
+    font-size: 23px;
+    padding: 10px;
+}
+
+canvas{
+    border-radius: 75px;
+    border-color: 0px solid black;
+    box-shadow: 1px 38px 38px red;
+}
